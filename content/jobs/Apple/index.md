@@ -1,8 +1,8 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
+date: '2016-08-01'
+title: 'Software Developer'
+company: 'Pampered Chef'
+location: 'Chicago, IL'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
 ---
