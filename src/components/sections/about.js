@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'SpringBoot', 'GCP', 'AWS', 'CI/CD', 'Oauth'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,21 +136,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Jivan and I like creating building cool things. I am professinal
+              software developer with experince in eCommerece , insurance and travel industry.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I am an experienced developer with endless desire to learn new tech. I have experience
+              in developing user facing enterprise applications. I think every tech application is a
+              solution to real life problem. Have worked on eCommerce, finance and travel domain in
+              career, focusing mainly on backend development. Experienced in full backend stack
+              which includes application development , security(Oauth/SAML) , deployment
+              automation(CI/CD), infrastructure and I like documentation ;). I like learning new
+              things and I am always curious !! Strong inclination towards process , deep
+              willingness and desire to collaborate to yield the best outcomes .
             </p>
 
             <p>

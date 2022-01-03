@@ -64,11 +64,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a software engineer specializing backend (server side) development. Currently, I’m
+        focused on merging the multiple sites into one single site at{' '}
+        <a href="https://tripaneer.com/" target="_blank" rel="noreferrer">
+          Tripnaeer
         </a>
         .
       </p>
