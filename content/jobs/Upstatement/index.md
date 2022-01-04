@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+title: 'Application Engineer'
+company: 'CNA Financial'
+location: 'Chicago, IL'
+range: 'Jan 2018 - Mar 2021'
 url: 'https://www.upstatement.com/'
 ---
 
