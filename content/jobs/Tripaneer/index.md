@@ -13,3 +13,4 @@ url: 'https://www.tripaneer.com'
 - Automating the internal processes to better manage the internal work flows.
 - Improving the Ci/CD pipelines and managing the AWS infrastructure.
 - Started 'Document it' culture to cross train team on features.
+- Introduced standard best practices for the development/engineering.
