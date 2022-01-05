@@ -12,3 +12,4 @@ url: 'https://www.apple.com/music/'
 - Worked Hybris eCommerce platform for full user shopping experience.
 - Built the APIs for cart and order management service.
 - Implemented the new feaures for better user experience using AngularJS.
+- Build the application using BDD approach. Involved in full SDLC .
