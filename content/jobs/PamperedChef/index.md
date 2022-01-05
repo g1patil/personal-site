@@ -11,4 +11,4 @@ url: 'https://www.apple.com/music/'
 - I led the development and release of QuickCheckout application across whole new region (Canada). Led the development effort and communication across cross-functional teams.
 - Worked Hybris eCommerce platform for full user shopping experience.
 - Built the APIs for cart and order management service.
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Implemented the new feaures for better user experience using AngularJS.
