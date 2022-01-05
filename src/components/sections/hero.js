@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Jivan Patil.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I build software engineering solutions for web.</h3>;
   const four = (
     <>
       <p>
@@ -73,13 +73,8 @@ const Hero = () => {
       </p>
     </>
   );
-  const five = (
-    <a className="email-link" href="https://www.jivanpatil.com" target="_blank" rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
