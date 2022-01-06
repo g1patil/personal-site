@@ -67,7 +67,7 @@ const Hero = () => {
         I’m a software engineer specializing backend (server side) development. Currently, I’m
         focused on merging the multiple sites into one single site at{' '}
         <a href="https://tripaneer.com/" target="_blank" rel="noreferrer">
-          Tripnaeer
+          Tripaneer
         </a>
         .
       </p>
