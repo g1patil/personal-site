@@ -1,5 +1,5 @@
 ---
-date: '2016-08-01'
+date: '2018-01-01'
 title: 'Application Developer , XP'
 company: 'CNA Financial'
 location: 'Chicago, IL'

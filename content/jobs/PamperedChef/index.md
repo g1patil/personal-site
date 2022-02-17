@@ -3,7 +3,7 @@ date: '2016-08-01'
 title: 'Software Developer'
 company: 'Pampered Chef'
 location: 'Chicago, IL'
-range: 'July - December 2017'
+range: 'July 2016 - December 2017'
 url: 'https://www.pamperedchef.com/'
 ---
 
