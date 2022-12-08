@@ -11,3 +11,4 @@ url: 'https://www.plaid.com'
 - As part of the Europe team, I built the integrations with banks so that our customers can build smart fintech solutions
 - Built the payment solutions for processing millions in transactions
 - Improved the code base for future product development.
+- Skills : TypeScript, AWS, little GoLang...
