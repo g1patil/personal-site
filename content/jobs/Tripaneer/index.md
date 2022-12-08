@@ -3,7 +3,7 @@ date: '2021-04-01'
 title: 'Software Developer'
 company: 'Tripaneer BV'
 location: 'Amsterdam '
-range: 'April 2021 - Present'
+range: 'April 2021 - May 2022'
 url: 'https://www.tripaneer.com'
 ---
 
